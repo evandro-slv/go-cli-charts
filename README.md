@@ -50,12 +50,50 @@ The result will be displayed in the terminal as:
       3.06 |   ██████      ██████                  ██████      ██████   
       1.53 |___██████______██████______▄▄▄▄▄▄______██████______██████___
                Copper      Gold        Other       Platinum    Silver   
-     
-You can also run the sample project in the `examples` folder, you just need to download the [github.com/buger/goterm](goterm) package for this:
+
+You can also run the sample project in the `examples` folder, you just need to download the [goterm](github.com/buger/goterm) package for this:
 
     cd examples
     go get github.com/buger/goterm
     go run main.go
+
+Other examples:
+
+    <Custom UI>
+    
+                                    -             
+                  _                 -             
+                  -                 -             
+                  -                 -             
+                  -                 -             
+                  -                 -             
+                  -                 -             
+                  -                 -        _    
+         _        -                 -        -    
+         -        -                 -        -    
+         -        -                 -        -    
+         -        -                 -        -    
+         -        -                 -        -    
+     ____-________-_________________-________-____
+         Copper   Gold     Other    Platinum Silver   
+    
+    <Y Label Spacing>
+    
+     21.45                                 █             
+                         ▄                 █             
+     18.39               █                 █             
+                         █                 █             
+     15.32               █                 █             
+                         █                 █             
+     12.26               █                 █             
+                         █                 █        ▄    
+      9.19      ▄        █                 █        █    
+                █        █                 █        █    
+      6.13      █        █                 █        █    
+                █        █                 █        █    
+      3.06      █        █                 █        █    
+                █        █        ▄        █        █    
+                Copper   Gold     Other    Platinum Silver
           
 ## Documentation
 
