@@ -59,7 +59,7 @@ You can also run the sample project in the `examples` folder, you just need to d
 
 Other examples:
 
-    <Custom UI>
+#### Custom UI
     
                                     -             
                   _                 -             
@@ -77,7 +77,7 @@ Other examples:
      ____-________-_________________-________-____
          Copper   Gold     Other    Platinum Silver   
     
-    <Y Label Spacing>
+#### Y Label Spacing
     
      21.45                                 █             
                          ▄                 █             
